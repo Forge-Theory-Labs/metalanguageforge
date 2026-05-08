@@ -155,3 +155,9 @@ This is a personal project, but feedback and contributions are always welcome!
 ---
 
 ## 🤖 MetaLanguageForge - Forge Your Reality 🤖
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
